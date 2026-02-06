@@ -70,7 +70,7 @@ To ensure realistic and comparable results, listings were filtered to include:
 - Short-term rentals (`minimum_nights < 7`)
 - Listings with demand (`availability_30 < 30`)
 - Listings with more than one review (for sentiment analysis)
-- Monthly projected revenue = price * (30 - availability_30)
+- Monthly projected revenue = `price * (30 - availability_30)`
 
 ---
 
