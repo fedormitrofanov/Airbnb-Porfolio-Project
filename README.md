@@ -4,13 +4,6 @@
 This project analyzes **Airbnb listings and reviews in Toronto** using **SQL Server** and **Power BI** to uncover pricing patterns, revenue drivers, neighborhood trends, and the impact of guest sentiment on host performance.
 
 The project demonstrates **end-to-end data analytics skills**, including:
-Initial data transformation using Microsoft Excel
-➜ Data exploration and transformation using SQL
-➜ Creation of reusable SQL views
-➜ The import of SQL views into Power BI
-➜ Interactive dashboard development using a custom them in Power BI
-
-The project demonstrates **end-to-end data analytics skills**, including:
 
 ➜ Initial data transformation using Microsoft Excel  
 ➜ Data exploration and transformation using SQL  
