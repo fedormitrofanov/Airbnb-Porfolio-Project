@@ -10,6 +10,15 @@ Initial data transformation using Microsoft Excel
 ➜ The import of SQL views into Power BI
 ➜ Interactive dashboard development using a custom them in Power BI
 
+The project demonstrates **end-to-end data analytics skills**, including:
+
+➜ Initial data transformation using Microsoft Excel  
+➜ Data exploration and transformation using SQL  
+➜ Creation of reusable SQL views  
+➜ Import of SQL views into Power BI  
+➜ Interactive dashboard development using a custom Power BI theme
+
+
 ---
 
 ## Business Questions Answered
