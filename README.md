@@ -29,9 +29,10 @@ This analysis focuses on answering practical, market-relevant questions such as:
 - Which **neighborhoods** have the most Airbnb listings?
     - Waterfront Communities - The Island is the neighbourhood with the most number of listings (Dashboard2.png)
 - What is the **average listing price** for short-term rentals in Toronto?
-      - $197.12 per night (Dashboard2.png)
-- Does the number of **bedrooms** impact the listing price?
-      - Listings with more bedrooms are priced higher than listings with less bedrooms (Dashboard2.png)
+    - The average nightly price for short-term rentals is **$198.12** (Dashboard2.png)
+- Does the number of **bedrooms** impact listing prices?
+    - Listings with a higher number of bedrooms are priced higher than those with fewer bedrooms (Dashboard2.png)
+  
 ---
 
 ## Tools & Technologies
@@ -44,7 +45,7 @@ This analysis focuses on answering practical, market-relevant questions such as:
 ## Dataset Description
 
 - Data was obtained from the website insideairbnb.com
-- Data is scraped from the Airbnb Website from November 11th, 2025
+- Data is scraped from the Airbnb website from November 11th, 2025
 
   
 ### `listings`
